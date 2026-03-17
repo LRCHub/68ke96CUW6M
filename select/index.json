@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Never More",
+  "base_artist": "平田志穂子",
+  "createdAt": "2026-03-17T09:39:04.550975Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never More Than Now",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/01_Never_More_Than_Now_ABC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never More",
+      "artist": "ELF",
+      "has_synced": true,
+      "path": "select/02_Never_More_ELF.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never More",
+      "artist": "平田志穂子",
+      "has_synced": true,
+      "path": "select/03_Never_More_平田志穂子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never More",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/04_Never_More_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never More",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/05_Never_More_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Center Core Never More",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/06_Center_Core_Never_More_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "For Never More",
+      "artist": "Reverend Horton Heat",
+      "has_synced": false,
+      "path": "select/07_For_Never_More_Reverend_Horton_Heat.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "For Never More",
+      "artist": "The Reverend Horton Heat",
+      "has_synced": false,
+      "path": "select/08_For_Never_More_The_Reverend_Horton_Heat.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Once and Never More",
+      "artist": "Shadow Academy",
+      "has_synced": false,
+      "path": "select/09_Once_and_Never_More_Shadow_Academy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never More",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/10_Never_More_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never More",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/11_Never_More_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Signs Of Love (“NEVER MORE” P4D-EDIT ver.)",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/12_Signs_Of_Love_(“NEVER_MORE”_P4D-EDIT_ver.)_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Your Affection (\"NEVER MORE\" P4D-EDIT ver.)",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/13_Your_Affection_(_NEVER_MORE__P4D-EDIT_ver.)_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Never More",
+      "artist": "Loathe",
+      "has_synced": true,
+      "path": "select/14_Never_More_Loathe.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Never More",
+      "artist": "Jaromír Nohavica",
+      "has_synced": true,
+      "path": "select/15_Never_More_Jaromír_Nohavica.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Never More",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/16_Never_More_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Never More\u0000",
+      "artist": "Shihoko Hirata\u0000",
+      "has_synced": true,
+      "path": "select/17_Never_More\u0000_Shihoko_Hirata\u0000.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Signs Of Love (\"NEVER MORE\" P4D-EDIT ver.)\u0000",
+      "artist": "平田志穂子\u0000",
+      "has_synced": true,
+      "path": "select/18_Signs_Of_Love_(_NEVER_MORE__P4D-EDIT_ver.)\u0000_平田志穂子\u0000.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never More",
+      "artist": "平田志穂子",
+      "has_synced": false,
+      "path": "select/pl_01_Never_More_平田志穂子.txt"
+    }
+  ]
+}
